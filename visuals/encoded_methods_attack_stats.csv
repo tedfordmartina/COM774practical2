@@ -1,0 +1,15 @@
+,total_requests,attack_requests,attack_rate_percent,count_label
+http_method_GET_processed,90399,6417,7.098529850993927,6417 / 90399
+http_method_POST_processed,51730,157,0.3034989367871641,157 / 51730
+http_method_OPTIONS_processed,6390,44,0.6885758998435054,44 / 6390
+http_method_TRACK_processed,2,2,100.0,2 / 2
+http_method_HEAD_processed,2,2,100.0,2 / 2
+http_method__processed,2,0,0.0,0 / 2
+http_method_TRACE_processed,2,2,100.0,2 / 2
+http_method_INDEX_processed,1,1,100.0,1 / 1
+http_method_<script>alert(1)</script>_processed,1,1,100.0,1 / 1
+http_method_DEBUG_processed,1,1,100.0,1 / 1
+http_method_PUT_processed,1,1,100.0,1 / 1
+http_method_PROPFIND_processed,1,1,100.0,1 / 1
+http_method_SEARCH_processed,1,1,100.0,1 / 1
+http_method_get_processed,1,1,100.0,1 / 1

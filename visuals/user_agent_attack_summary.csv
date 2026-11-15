@@ -1,0 +1,3 @@
+traffic_type,requests,median_length,mean_length,missing_count,missing_percent,median_length_when_present
+Attack,6631,0.0,1.2666264515156085,6295,94.93289096667169,19.0
+Normal,141903,76.0,100.7730985250488,2,0.0014094134725833845,76.0
